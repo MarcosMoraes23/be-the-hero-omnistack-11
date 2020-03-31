@@ -1,5 +1,8 @@
-# Be The Hero
+<h4 align="center">
+<img src="./frontend/src/assets/logo.svg" width="250px" /><br>
+</h4>
 
+### Be The Hero
  This application is a result of study about some currently technologies such as [ReactJs](https://reactjs.org/), [React Native](https://reactnative.dev/) and [NodeJs](https://nodejs.org/en/). The software main objective is connect non-profit organizations which needs donations and support, to people who wants to help. :blush:
  The web application will be used for organizations register itselfs and register the cases wich needs donations and the mobile app is aimed at donors.
 ## Getting Started
