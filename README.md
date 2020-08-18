@@ -35,7 +35,7 @@
 
 ### Running tests.
 
-   Run: ``` npm install ``` or ``` yarn install ```, (available just in the backend 'API');
+   Run: ``` yarn test ```, (available just in the backend 'API');
       
    :ghost: Enjoy it !
    
